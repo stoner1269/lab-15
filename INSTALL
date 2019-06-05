@@ -1,0 +1,9 @@
+Для сборки программы lab-15 необходимо установить Java SE Development Kit 8u202 который доступен по ссылке https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
+для сборки запустить скрипт build.bat
+
+
+
+Для запуска программы lab-15 необходимо установить Java SE Runtime Environment 8u202 который доступен по ссылке https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
+
+для запуска использовать скрипт lab-15.bat находящийся в директории lab-15/bin
